@@ -1,10 +1,10 @@
-# Proyek Permasalahan Perusahaan Edutech
+# Edutech Company Problem Project 🚀
 
-## Persiapan
+## Preparation 🛠️
 
-Setup environment (python):
+Setup environment (Python):
 
-1. Membuat Virtual Environment (Windows)
+1. **Creating Virtual Environment (Windows)** 🖥️
 
     ``` python
     python -m venv venv
@@ -13,13 +13,13 @@ Setup environment (python):
     .\venv\Scripts\activate
     ```
 
-2. Install Library
+2. **Install Libraries** 📚
 
     ``` python
     pip install -r requirements.txt
     ```
 
-3. Jalankan Streamlit
+3. **Run Streamlit** 🌐
 
     ``` bash
     streamlit run app.py
